@@ -118,4 +118,19 @@ The dashboard will open at `http://localhost:8501`.
 
 ## License
 
-This project is open source. The Chinook database is provided under the [MIT License](https://github.com/lerocha/chinook-database/blob/master/LICENSE.md).
+This project is open source. The Chinook database is provided under the MIT License.
+
+
+References
+
+
+Chinook Database — original sample database by Luis Rocha (MIT License)
+Northwind Database — Microsoft's classic fictional food trading company dataset
+Sakila Database — MySQL's official DVD rental store sample (BSD License)
+AdventureWorks — Microsoft's fictional bicycle manufacturer dataset (68 tables)
+WideWorldImporters — Microsoft's modern AdventureWorks successor with advanced SQL Server features
+MySQL Employees Database — HR benchmark dataset with ~300,000 employee records
+World DB — compact geographic/demographic dataset (countries, cities, languages)
+Dell DVD Store (DellStore2) — open-source e-commerce simulation for benchmarking
+Streamlit Documentation — web app framework used in this project
+SQLAlchemy Documentation — Python SQL toolkit and ORM
