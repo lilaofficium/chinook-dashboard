@@ -1,0 +1,8 @@
+seaborn
+streamlit
+pandas
+sqlalchemy
+matplotlib
+psycopg2-binary
+python-dotenv
+# pip install -r requirements.txt streamlit run app.py python -m venv .venv
